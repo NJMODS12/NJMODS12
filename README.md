@@ -4,14 +4,13 @@ I'm currently an undergraduate student pursuing my degree in Information Technol
 ## Internship Experience :briefcase:
 Currently, I'm gaining hands-on experience with MERN technology.
 ## Education :books:
-- **Diploma:** Diploma in Computer Engineering
-- At Ganpat University
-- **Degree:** Bachelor of Engineering in Information Technology (IT)
-- At New L.J. Institute of Engineering & Technology (GTU) 
+- **Diploma:** Diploma in Computer Engineering at Ganpat University
+- **Degree:** Bachelor of Engineering in Information Technology (IT) at New L.J. Institute of Engineering & Technology (GTU) 
 ## Skills :rocket:
 - **Programming Languages:** JavaScript
 - **Technologies:** MongoDB, ReactJS
 - **Other Skills:** Problem Solving, Creative, Team Collaboration
+- **Non Technical Skills:** Graphic Designing (Adobe Photoshop, Adobe Illustrator), Video Editing (Adobe Premiere Pro, Adobe After Effects)
 ## Learning Journey :seedling:
 I'm currently focused on mastering Front-End technology and continuously expanding my knowledge in Front-End web app development.
 ## Let's Connect :mailbox:
